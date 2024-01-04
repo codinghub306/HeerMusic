@@ -50,10 +50,74 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h3 align="center">
+    ─「 ɪɴsᴛᴀʟʟ ᴏɴ ᴀ ᴠᴘs 」─
+</h3>
+
+<details>
+<summary><h3>
+- <b> ᴠᴘs ᴏɴ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
+</h3></summary>
+
+- ɢᴇᴛ ʏᴏᴜʀ [ɴᴇᴄᴇꜱꜱᴀʀʏ ᴠᴀʀɪᴀʙʟᴇꜱ](https://github.com/codinghub306/HeerMusic/blob/master/sample.env)
+
+- ᴜᴘɢʀᴀᴅᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙʏ :
+`sudo apt-get update && sudo apt-get upgrade -y`
+
+- ɪɴsᴛᴀʟʟ ғғᴍᴘᴇɢ
+`sudo apt-get install python3-pip ffmpeg -y`
+
+- ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴅ ᴘᴀᴄᴋᴀɢᴇs ʙʏ :
+`sudo apt-get install python3-pip -y`
+
+- ɪɴꜱᴛᴀʟʟ ᴘɪᴘ ʙʏ :
+`sudo pip3 install -U pip`
+
+- ɪɴꜱᴛᴀʟʟ ɴᴏᴅᴇ ᴊꜱ ʙʏ :
+`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+
+- ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ʙʏ :
+`git clone https://github.com/codinghub302/AnonXMusic && cd AnonMusic`
+
+- ɪɴꜱᴛᴀʟʟ ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ ʙʏ :
+`pip3 install -U -r requirements.txt`
+
+- ꜰɪʟʟ ʏᴏᴜʀ ᴠᴀʀɪᴀʙʟᴇꜱ ɪɴ ᴛʜᴇ ᴇɴᴠ ʙʏ :
+`vi sample.env`<br>
+
+ᴘʀᴇꜱꜱ `ɪ` ᴏɴ ᴛʜᴇ ᴋᴇʏʙᴏᴀʀᴅ ꜰᴏʀ ᴇᴅɪᴛɪɴɢ ᴇɴᴠ<ʙʀ>
+ᴘʀᴇꜱꜱ `ᴄᴛʀʟ+ᴄ` ᴡʜᴇɴ ʏᴏᴜ'ʀᴇ ᴅᴏɴᴇ ᴡɪᴛʜ ᴇᴅɪᴛɪɴɢ ᴇɴᴠ ᴀɴᴅ `:ᴡQ` ᴛᴏ ꜱᴀᴠᴇ ᴛʜᴇ ᴇɴᴠ<ʙʀ>
+
+- ʀᴇɴᴀᴍᴇ ᴛʜᴇ ᴇɴᴠ ꜰɪʟᴇ ʙʏ :
+`mv sample.env .env`
+
+- ɪɴꜱᴛᴀʟʟ ᴛᴍᴜx ᴛᴏ ᴋᴇᴇᴘ ʀᴜɴɴɪɴɢ ʏᴏᴜʀ ʙᴏᴛ ᴡʜᴇɴ ʏᴏᴜ ᴄʟᴏꜱᴇ ᴛʜᴇ ᴛᴇʀᴍɪɴᴀʟ ʙʏ :
+`sudo apt install tmux && tmux`
+
+- ꜰɪɴᴀʟʟʏ ʀᴜɴ ᴛʜᴇ ʙᴏᴛ ʙʏ :
+`bash start`
+
+- ꜰᴏʀ ɢᴇᴛᴛɪɴɢ ᴏᴜᴛ ꜰʀᴏᴍ ᴛᴍᴜx ꜱᴇꜱꜱɪᴏɴ : ᴘʀᴇꜱꜱ `ᴄᴛʀʟ+ʙ` ᴀɴᴅ ᴛʜᴇɴ `ᴅ`<ʙʀ>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center"> 
+   ➤ ᴍᴀɪɴ ᴠᴇʀs  
+</h2>
+```
+API_ID =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps
+API_HASH =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps
+EVENT_LOGS =  ʏᴏᴜʀ ɢʀᴏᴜᴘ/ᴄʜᴀɴɴᴇʟ ɪᴅ  -100..
+MONGO_DB_URI =  ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ mongodb.com
+TOKEN =  ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ. ɢᴇᴛ ᴏɴᴇ ғʀᴏᴍ @BotFather
+OWNER_ID =  ᴛʏᴘᴇ /id 
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🤖 &nbsp;ᴍʏ ʙᴏᴛꜱ
 <a href="https://t.me/HeavenXmusic_bot"><img src="https://img.shields.io/badge/Join-Heaven%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/HeerMusic88bot" alt="ʜᴇᴇʀ ダ ᴍᴜsɪᴄ"> <img src="https://img.shields.io/badge/ʜᴇᴇʀ ダ ᴍᴜsɪᴄ-90302f?logo=github" /></a>
 
 ## 🗨️ &nbsp;ᴄʜᴀᴛ ᴀɴᴅ ꜱᴜᴘᴘᴏʀᴛ
-<!-- Talking about groups -->
-
-<a href="https://t.me/Jannat_Ki_Duniya"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/JannatUpdate"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/+hTILedqSqOo4MzI1"><img src="https://img.shields.io/badge/Join-Yarro ki%20Mehfil-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/mehfil_ye_khayalat"><img src="https://img.shields.io/badge/Join-दिल की%20आवाज़-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/THC_SHAYRI_CHANNEL"><img src="https://img.shields.io/badge/Join-शायरो की%20महफ़िल-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/FONT_CHANNEL_01"><img src="https://img.shields.io/badge/Join-Stylish%20Font Name-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/DHPR_OP_BIO"><img src="https://img.shields.io/badge/Join-Bio%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
