@@ -118,16 +118,9 @@ OWNER_ID =  ᴛʏᴘᴇ /id
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🤖 &nbsp;ᴍʏ ʙᴏᴛꜱ
-<a href="https://t.me/HeavenXmusic_bot"><img src="https://img.shields.io/badge/Join-Heaven%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/HeerMusic88bot" alt="ʜᴇᴇʀ ダ ᴍᴜsɪᴄ"> <img src="https://img.shields.io/badge/ʜᴇᴇʀ ダ ᴍᴜsɪᴄ-90302f?logo=github" /></a>
+<a href="https://t.me/HeavenXmusic_bot" alt="ʜᴇᴧᴠᴇɴ ダ ᴍᴜsɪᴄ"> <img src="https://img.shields.io/badge/ʜᴇᴧᴠᴇɴ ダ ᴍᴜsɪᴄ-90302f?logo=telegram" /></a>
+<a href="https://t.me/HeerMusic88bot" alt="ʜᴇᴇʀ ダ ᴍᴜsɪᴄ"> <img src="https://img.shields.io/badge/ʜᴇᴇʀ ダ ᴍᴜsɪᴄ-90302f?logo=telegram" /></a>
 
 ## 🗨️ &nbsp;ᴄʜᴀᴛ ᴀɴᴅ ꜱᴜᴘᴘᴏʀᴛ
 <a href="https://t.me/+hTILedqSqOo4MzI1"><img src="https://img.shields.io/badge/Join-Yarro ki%20Mehfil-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/mehfil_ye_khayalat"><img src="https://img.shields.io/badge/Join-दिल की%20आवाज़-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/THC_SHAYRI_CHANNEL"><img src="https://img.shields.io/badge/Join-शायरो की%20महफ़िल-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/FONT_CHANNEL_01"><img src="https://img.shields.io/badge/Join-Stylish%20Font Name-blue.svg?style=for-the-badge&logo=Telegram"></a>  <a href="https://t.me/DHPR_OP_BIO"><img src="https://img.shields.io/badge/Join-Bio%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
