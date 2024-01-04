@@ -2,6 +2,8 @@
     ──「 ʜᴇᴇʀ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
   <img src="https://telegra.ph/file/6177570eedac02d9307fe.jpg">
 </p>
@@ -9,6 +11,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=Blue&center=true&lines=──+「+ʜᴇᴇʀ+ダ+ᴍᴜsɪᴄ」+──;ᴧɴ+ᴧᴅᴠᴧɴᴄᴇᴅ+ɢʀᴏᴜᴘ+ᴍᴜꜱɪᴄ+ʙᴏᴛ+ᴏɴ+ᴛᴇʟᴇɢʀᴀᴍ.&width=600&height=180">
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -25,17 +29,26 @@
 
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
-
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codinghub306/HeerMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
 <details>
+<summary><h3>
+- <b>  ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ </b>
+</h3></summary>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/codinghub302/KavyaMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤖 &nbsp;ᴍʏ ʙᴏᴛꜱ
 <a href="https://t.me/HeavenXmusic_bot"><img src="https://img.shields.io/badge/Join-Heaven%20Music-blue.svg?style=for-the-badge&logo=Telegram"></a>
