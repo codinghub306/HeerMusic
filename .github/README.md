@@ -59,12 +59,12 @@
 - <b> ᴠᴘs ᴏɴ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅ </b>
 </h3></summary>
 
-- ɢᴇᴛ ʏᴏᴜʀ [ɴᴇᴄᴇꜱꜱᴀʀʏ ᴠᴀʀɪᴀʙʟᴇꜱ](https://github.com/codinghub302/KavyaMusic/blob/master/sample.env)
+- ɢᴇᴛ ʏᴏᴜʀ [ɴᴇᴄᴇꜱꜱᴀʀʏ ᴠᴀʀɪᴀʙʟᴇꜱ](https://github.com/codinghub306/HeerMusic/blob/master/sample.env)
 
 - ᴜᴘɢʀᴀᴅᴇ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇ ʙʏ :
 `sudo apt-get update && sudo apt-get upgrade -y`
 
-- ɪɴsᴛᴀʟʟ ғғᴍᴘᴇɢ
+- ɪɴsᴛᴀʟʟ ғғᴍᴘᴇɢ :
 `sudo apt-get install python3-pip ffmpeg -y`
 
 - ɪɴsᴛᴀʟʟ ʀᴇǫᴜɪʀᴇᴅ ᴘᴀᴄᴋᴀɢᴇs ʙʏ :
@@ -74,10 +74,10 @@
 `sudo pip3 install -U pip`
 
 - ɪɴꜱᴛᴀʟʟ ɴᴏᴅᴇ ᴊꜱ ʙʏ :
-`curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
+`curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 
 - ᴄʟᴏɴᴇ ᴛʜᴇ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ʙʏ :
-`git clone https://github.com/codinghub302/AnonXMusic && cd AnonMusic`
+`git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonMusic`
 
 - ɪɴꜱᴛᴀʟʟ ʀᴇQᴜɪʀᴇᴍᴇɴᴛꜱ ʙʏ :
 `pip3 install -U -r requirements.txt`
@@ -116,7 +116,7 @@ OWNER_ID =  ᴛʏᴘᴇ /id
 </details>
 ━━━━━━━━━━━━━━━━━━━━
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
