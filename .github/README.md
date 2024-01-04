@@ -102,9 +102,15 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center"> 
-   ➤ ᴍᴀɪɴ ᴠᴇʀs  
-</h2>
+<h3 align="center">
+    ─「 ᴍᴀɪɴ ᴠᴇʀs 」─
+</h3>
+
+<details>
+<summary><h3>
+- <b> ᴍᴀɪɴ ᴠᴇʀs </b>
+</h3></summary>
+
 ```
 API_ID =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps
 API_HASH =  ɢᴇᴛ ᴛʜɪs ᴠᴀʟᴜᴇ ғʀᴏᴍ my.telegram.org/apps
